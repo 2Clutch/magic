@@ -1,0 +1,8 @@
+# pycharm
+.idea/
+
+# py virtual env
+venv/
+
+# misc
+ch_2/data.csv
