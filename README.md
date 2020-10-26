@@ -17,4 +17,4 @@ A test suite is expected.
 
 #### ch_2
 
-This [script](ch_2/weather.py) addresses these [requirements].
+This [script](ch_2/weather.py) addresses these [requirements](https://github.com/magiclabs/email_screening_question/tree/master/Backend).
